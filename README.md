@@ -1,4 +1,4 @@
-Idea : eBaySanta 
-  Suggest gifts on eBay for special events pulled from Google Calendar 
+# Idea : eBaySanta 
+  Integrate eBay app with Google Calendar to suggest gifts for various events.
   
-  Developed an Android app which integrates with Google Calendar, pulls events from the calendar and suggests gifts to buy on eBay using eBay developer APIs
+  Developed an Android app which pulls events from google calendar and suggests gifts to buy on eBay using eBay developer APIs

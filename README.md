@@ -6,6 +6,7 @@
   <p align="left">
   <img src="https://github.com/kavyabvishwanath/ebay-hackweek/blob/master/screenshots/eBayCalendarOption.jpg" width="150" height="300">
   <img src="https://github.com/kavyabvishwanath/ebay-hackweek/blob/master/screenshots/CalendarView.jpg" width="150" height="300">
+  <img src="https://github.com/kavyabvishwanath/ebay-hackweek/blob/master/screenshots/FrommGoogleCalendar.jpg" width="150" height="300">
     <img src="https://github.com/kavyabvishwanath/ebay-hackweek/blob/master/screenshots/AddEvent.jpg" width="150" height="300">
   <img src="https://github.com/kavyabvishwanath/ebay-hackweek/blob/master/screenshots/ViewSuggestedGift.jpg" width="150" height="300">
   
